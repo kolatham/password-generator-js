@@ -1,1 +1,1 @@
-# password-generator-js
+This is a password generator where I am fixing the previous code to fulfil the requirements of length, numbers, symbols, uppercase, and lowercase characters. I am specifically working with javascript to fix this and am not touching the index or stylings.
