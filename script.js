@@ -2,8 +2,8 @@
 var generateBtn = document.querySelector("#generate");
 
 // Each are their own arrays of charCodes for each type of character that are used later on to generate the password.
-  const lowercase_char_codes = arrayFromLowToHigh(65,90)
-  const uppercase_char_codes = arrayFromLowToHigh(97,122)
+  const lowercase_char_codes = arrayFromLowToHigh(97,122)
+  const uppercase_char_codes = arrayFromLowToHigh(65, 90)
   const number_char_codes = arrayFromLowToHigh(48, 57)
   const symbol_char_codes = arrayFromLowToHigh(33,47).concat(
     arrayFromLowToHigh(58,64)
