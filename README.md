@@ -1,5 +1,9 @@
 This is a password generator where I am fixing the previous code to fulfil the requirements of length, numbers, symbols, uppercase, and lowercase characters. I am specifically working with javascript to fix this and am not touching the index or stylings. Below you will find screenshots of my working application. 
-![](images\password-generator-screenshot.png)
+Here are some examples of the page with a user prompt
+![userprompt screenshot](images\password-generator-screenshot.png)
+![password length prompt](images\password-length-screenshot.png)
+
+
 [Here](https://github.com/kolatham/password-generator-js) is a link to my repo.
 [Here](https://kolatham.github.io/password-generator-js/) is a link to my deployed application.
 MIT License
